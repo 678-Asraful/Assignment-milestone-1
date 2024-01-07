@@ -6,12 +6,12 @@ body {
 }
 
 .first-banner {
-    background-image:linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../resources/Banner_Image.png');
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../resources/Banner_Image.png');
     width: 1320px;
     height: 600px;
     position: absolute;
     background-position: center;
-    margin-left: 250px;
+    margin-left: 280px;
     margin-top: 50px;
     border-radius: 16px;
 }
@@ -28,9 +28,49 @@ body {
     font-weight: 400;
     line-height: normal
 }
-.first-banner-subheading{
+
+.first-banner-subheading {
     color: #FFF;
     text-align: center;
     font-size: 72px;
     font-family: Merriweather;
+}
+
+.offer {
+    display: block;
+    gap: 24px;
+    padding-top: 770px;
+    padding-left: 500px;
+    padding-bottom: 120px;
+}
+
+.offer-title {
+    color: #F00;
+    padding-left: 250px;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+}
+
+.offer-details {
+    padding-left: 250px;
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.categories {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 700;
+    padding-left: 250px;
+    padding-bottom: 48px;
+}
+
+.offer-image {
+    align-items: center;
+    width: 802.9px;
+    height: 500px;
+
 }
