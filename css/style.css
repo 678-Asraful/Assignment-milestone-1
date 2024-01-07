@@ -98,7 +98,7 @@ body {
     letter-spacing: 7.04px;
     padding-left: 140px;
     padding-top: 100px;
-    
+
 }
 
 .new-year {
@@ -114,13 +114,66 @@ body {
     font-weight: 400;
     line-height: 30px;
     padding-left: 140px;
-    
+
 }
-.midnight-party-button{
-    padding-left:160px ;
+
+.midnight-party-button {
+    padding-left: 160px;
     font-family: Inter;
     font-weight: 700;
     text-transform: uppercase;
     font-size: 20px;
     padding-top: 50px;
+
+}
+
+.venue {
+    width: 1320px;
+    height: 482px;
+    margin-top: 720px;
+    margin-left: 240px;
+    display: block;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    border-radius: 5px;
+}
+
+.venue-text {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.venue-button {
+    padding-left: 610px;
+}
+
+.sp {
+    color: #F00;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+}
+
+.place {
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+}
+
+.join-button {
+    width: 160px;
+    height: 50px;
+    background: #F00;
+    border-radius: 8px;
+    border: none;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
 }
