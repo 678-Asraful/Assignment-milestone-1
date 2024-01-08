@@ -275,35 +275,77 @@ body {
     line-height: 32px;
     margin-bottom: 125px;
 }
+
 /* sale graphics related css */
 
-.wow-girl{
+.wow-girl {
     padding-left: 1130px;
 }
-.discount{
-padding-left: 920px;
-padding-top: 100px;
-position: absolute;
+
+.discount {
+    padding-left: 920px;
+    padding-top: 100px;
+    position: absolute;
 }
-.red-rectengale{
-    margin-top:-495px;
+
+.red-rectengale {
+    margin-top: -495px;
     width: 1320px;
     height: 229px;
     padding-top: 490px;
-    padding-left :240px;
+    padding-left: 240px;
 }
-.box-class{
+
+.box-class {
     margin-top: -380px;
     margin-left: 50px;
     width: 600px;
     height: 400px;
-   padding-top: 600px;
-   padding-left: 270px;
+    padding-top: 600px;
+    padding-left: 270px;
     position: absolute;
 }
 
+.product-text {
+    padding-left: 240px;
+}
 
+.product-title {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
 
+}
 
+.product-subtitle {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
 
+.product-description {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
 
+}
+
+.column1 {
+    display: flex;
+    gap: 24px;
+    margin-left: 240px;
+    margin-top: 48px;
+    border-radius: 16px;
+}
+
+.column2 {
+    display: flex;
+    gap: 24px;
+    margin-left: 240px;
+    margin-top: 24px;
+    border-radius: 16px;
+}
