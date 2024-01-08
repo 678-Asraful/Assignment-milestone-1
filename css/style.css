@@ -287,30 +287,23 @@ position: absolute;
 }
 .red-rectengale{
     margin-top:-495px;
-}
-.box-class{
-    margin-top: -380px;
-    margin-left: 50px;
-}
-
-
-
-
-
-
-
-.red-rectengale {
     width: 1320px;
     height: 229px;
     padding-top: 490px;
     padding-left :240px;
-    
 }
-
 .box-class{
+    margin-top: -380px;
+    margin-left: 50px;
     width: 600px;
     height: 400px;
    padding-top: 600px;
    padding-left: 270px;
     position: absolute;
 }
+
+
+
+
+
+
