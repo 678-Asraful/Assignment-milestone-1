@@ -497,3 +497,11 @@ hr {
     padding-right: 240px;
     
 }
+.column1 img:hover{
+    background-color: orange;
+    cursor: grab;
+}
+.column2 img:hover{
+    background-color: orange;
+    cursor: grab;
+}
