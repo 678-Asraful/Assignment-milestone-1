@@ -273,4 +273,44 @@ body {
     font-size: 20px;
     font-weight: 500;
     line-height: 32px;
+    margin-bottom: 125px;
+}
+/* sale graphics related css */
+
+.wow-girl{
+    padding-left: 1130px;
+}
+.discount{
+padding-left: 920px;
+padding-top: 100px;
+position: absolute;
+}
+.red-rectengale{
+    margin-top:-495px;
+}
+.box-class{
+    margin-top: -380px;
+    margin-left: 50px;
+}
+
+
+
+
+
+
+
+.red-rectengale {
+    width: 1320px;
+    height: 229px;
+    padding-top: 490px;
+    padding-left :240px;
+    
+}
+
+.box-class{
+    width: 600px;
+    height: 400px;
+   padding-top: 600px;
+   padding-left: 270px;
+    position: absolute;
 }
