@@ -388,7 +388,7 @@ body {
     border-radius: 50px 0 0 50px;
     background: #FFF;
     border: none;
-    
+
 }
 
 .email-input text {
@@ -397,8 +397,8 @@ body {
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
-    
-    
+
+
 }
 
 .email-button {
@@ -406,7 +406,94 @@ body {
     height: 72px;
     border-radius: 0px 50px 50px 0px;
     background: #F00;
-    
+
     border: none;
 
+}
+
+footer {
+
+    height: 609px;
+    background: #070211;
+    background-size: cover;
+    ma-left: 240px;
+}
+
+.address {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+    padding-left: 240px;
+    padding-top: 120px;
+}
+
+.footer-address {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.phone {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+
+}
+
+.Website {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+}
+
+.icon-contact {
+    margin-right: 275px;
+    margin-top: 120px;
+}
+
+
+.call-img,
+.website-img {
+     margin-right: 16px;
+    margin-top: 5px; 
+    
+}
+
+hr {
+    width: 1320px;
+    height: 1px;
+}
+
+.social-link {
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+    padding-top: 48px;
+    padding-bottom: 48px;
+}
+.reserved{
+    display: flex;
+    justify-content: space-between;
+}
+
+.copyright-title{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    padding-left: 240px;
+}
+.unsubscribe-title {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    padding-right: 240px;
+    
 }
